@@ -20,4 +20,3 @@ dog
 
 horse
 
-cow
