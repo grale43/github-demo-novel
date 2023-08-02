@@ -20,4 +20,4 @@ dog
 
 horse
 
-cow and ellephant
+cow and ellephant and giraffe
